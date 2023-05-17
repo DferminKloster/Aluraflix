@@ -26,5 +26,5 @@ AluraFlix es un Reto del programa de Oracle Next Education y Alura Latan. El cua
 - Yup
 - Formik
 ## Autores
-| [<img src="https://www.github.com/zidjian.png" width=115><br><sub>Waldir Maidana </sub>](https://github.com/zidjian) |
+| [<img src="https://github.com/DferminKloster.png" width=115><br><sub>Diego Fermin Kloster </sub>](https://github.com/DferminKloster) |
 | :---: |
